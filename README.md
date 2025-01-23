@@ -54,8 +54,8 @@ A arquitetura do sistema é composta por:
 
 3. No arquivo, `mqtt/client.py` configure as credenciais do Adafruit IO e MQTT:
    ```env
-   ADAFRUIT_IO_KEY=seu_key
-   ADAFRUIT_IO_USERNAME=seu_usuario
+   AIO_KEY=seu_key
+   USERNAME=seu_usuario
    MQTT_BROKER=seu_broker
    MQTT_PORT=seu_port
    ```
