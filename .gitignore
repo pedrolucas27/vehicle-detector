@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.py[cod]
+.DS_Store
+
+.env.*
+.idea/
+.vscode/
+*.pkl
+
+# Dependências geradas
+env/
+venv/
+.venv/
